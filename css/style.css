@@ -62,6 +62,12 @@ h4 {
    	border: 3px solid;
 }
 
+.btn-default:hover {
+	background-color: #00c3cf;
+	border-color: #00c3cf;
+	color: #ffffff;
+}
+
 i {
 	padding-top: 20px;
 }
